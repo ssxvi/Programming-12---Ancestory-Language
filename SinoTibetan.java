@@ -1,5 +1,3 @@
-
-
 public class SinoTibetan extends Language{
 
     static String wordOrder = "subject-object-verb";
